@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hotfix git4");
         System.out.println(" git4");
         System.out.println("push1");
+        System.out.println("push2");
+
     }
 }
